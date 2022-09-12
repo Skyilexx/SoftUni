@@ -1,0 +1,14 @@
+C:\Users\sayma\source\repos\ConsoleApp1\T09\bin\Debug\netcoreapp3.1\T09.exe
+C:\Users\sayma\source\repos\ConsoleApp1\T09\bin\Debug\netcoreapp3.1\T09.deps.json
+C:\Users\sayma\source\repos\ConsoleApp1\T09\bin\Debug\netcoreapp3.1\T09.runtimeconfig.json
+C:\Users\sayma\source\repos\ConsoleApp1\T09\bin\Debug\netcoreapp3.1\T09.runtimeconfig.dev.json
+C:\Users\sayma\source\repos\ConsoleApp1\T09\bin\Debug\netcoreapp3.1\T09.dll
+C:\Users\sayma\source\repos\ConsoleApp1\T09\bin\Debug\netcoreapp3.1\T09.pdb
+C:\Users\sayma\source\repos\ConsoleApp1\T09\obj\Debug\netcoreapp3.1\T09.csproj.AssemblyReference.cache
+C:\Users\sayma\source\repos\ConsoleApp1\T09\obj\Debug\netcoreapp3.1\T09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayma\source\repos\ConsoleApp1\T09\obj\Debug\netcoreapp3.1\T09.AssemblyInfoInputs.cache
+C:\Users\sayma\source\repos\ConsoleApp1\T09\obj\Debug\netcoreapp3.1\T09.AssemblyInfo.cs
+C:\Users\sayma\source\repos\ConsoleApp1\T09\obj\Debug\netcoreapp3.1\T09.csproj.CoreCompileInputs.cache
+C:\Users\sayma\source\repos\ConsoleApp1\T09\obj\Debug\netcoreapp3.1\T09.dll
+C:\Users\sayma\source\repos\ConsoleApp1\T09\obj\Debug\netcoreapp3.1\T09.pdb
+C:\Users\sayma\source\repos\ConsoleApp1\T09\obj\Debug\netcoreapp3.1\T09.genruntimeconfig.cache

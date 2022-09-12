@@ -1,0 +1,14 @@
+C:\Users\sayma\source\repos\ConsoleApp1\T01\bin\Debug\netcoreapp3.1\T01.exe
+C:\Users\sayma\source\repos\ConsoleApp1\T01\bin\Debug\netcoreapp3.1\T01.deps.json
+C:\Users\sayma\source\repos\ConsoleApp1\T01\bin\Debug\netcoreapp3.1\T01.runtimeconfig.json
+C:\Users\sayma\source\repos\ConsoleApp1\T01\bin\Debug\netcoreapp3.1\T01.runtimeconfig.dev.json
+C:\Users\sayma\source\repos\ConsoleApp1\T01\bin\Debug\netcoreapp3.1\T01.dll
+C:\Users\sayma\source\repos\ConsoleApp1\T01\bin\Debug\netcoreapp3.1\T01.pdb
+C:\Users\sayma\source\repos\ConsoleApp1\T01\obj\Debug\netcoreapp3.1\T01.csproj.AssemblyReference.cache
+C:\Users\sayma\source\repos\ConsoleApp1\T01\obj\Debug\netcoreapp3.1\T01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayma\source\repos\ConsoleApp1\T01\obj\Debug\netcoreapp3.1\T01.AssemblyInfoInputs.cache
+C:\Users\sayma\source\repos\ConsoleApp1\T01\obj\Debug\netcoreapp3.1\T01.AssemblyInfo.cs
+C:\Users\sayma\source\repos\ConsoleApp1\T01\obj\Debug\netcoreapp3.1\T01.csproj.CoreCompileInputs.cache
+C:\Users\sayma\source\repos\ConsoleApp1\T01\obj\Debug\netcoreapp3.1\T01.dll
+C:\Users\sayma\source\repos\ConsoleApp1\T01\obj\Debug\netcoreapp3.1\T01.pdb
+C:\Users\sayma\source\repos\ConsoleApp1\T01\obj\Debug\netcoreapp3.1\T01.genruntimeconfig.cache
